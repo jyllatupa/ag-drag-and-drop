@@ -1,0 +1,6 @@
+ANGULAR -DRAG AND DROP
+----------------------
+npm i bootstrap@5.0.1
+
+Para poder utilizar el Drag and Drop se debe instalar npm i @angular/cdk
+https://v16.material.angular.io/cdk/drag-drop/overview
